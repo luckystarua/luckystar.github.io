@@ -1,0 +1,23 @@
+.bigDiv {
+    height: 900px;
+}
+
+
+/* .vstroyka {
+    display: grid;
+    grid-template-areas: "card card";
+} */
+
+
+/* 
+.card {
+    grid-area: card car;
+} */
+
+
+/* .card img {
+    max-height: 140px;
+    max-width: 300px;
+} */
+
+@media (max-widht: 500px) {}
