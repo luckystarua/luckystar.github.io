@@ -25,14 +25,14 @@ p {
 }
 
 
-.grafik {
+.grafik, .rabota {
     text-align: center;
 }
-.grafik p{
+.grafik p, .rabota{
     text-align: center;
 }
 
-.grafik ol {
+.grafik ol, .rabota {
     list-style-type: none;
     text-decoration: none;
     padding: 0px;
