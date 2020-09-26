@@ -23,3 +23,18 @@
 p {
     text-align: justify;
 }
+
+
+.grafik {
+    text-align: center;
+}
+.grafik p{
+    text-align: center;
+}
+
+.grafik ol {
+    list-style-type: none;
+    text-decoration: none;
+    padding: 0px;
+    justify-content: center;
+}
